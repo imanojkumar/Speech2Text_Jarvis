@@ -4,6 +4,9 @@ Speech to text and text to speech bot using open AI API
 ### create venv env
 python -m venv venv
 
+### on windows
+venv\Scripts\activate
+
 ### update pip
 python -m pip install --upgrade pip
 
