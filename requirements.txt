@@ -1,0 +1,6 @@
+speechrecognition
+# python3-pyaudio # this is for unix users
+pyaudio   # this is for windows users
+pyttsx3
+openai
+python-dotenv
