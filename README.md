@@ -1,2 +1,12 @@
 # Speech2Text_Jarvis
 Speech to text and text to speech bot using open AI API
+
+### create venv env
+python -m venv venv
+
+### update pip
+python -m pip install --upgrade pip
+
+and then 
+### install packages
+pip install -r --no-cache-dir --forece-reinstall requirements.txt
