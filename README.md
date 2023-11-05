@@ -12,4 +12,4 @@ python -m pip install --upgrade pip
 
 and then 
 ### install packages
-pip install -r --no-cache-dir --forece-reinstall requirements.txt
+pip install -r --no-cache-dir --force-reinstall requirements.txt
